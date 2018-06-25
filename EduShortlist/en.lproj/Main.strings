@@ -1,0 +1,24 @@
+
+/* Class = "UILabel"; text = "Username"; ObjectID = "9ML-ZD-r2u"; */
+"9ML-ZD-r2u.text" = "Username";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "R6U-KC-PHF"; */
+"R6U-KC-PHF.normalTitle" = "Login";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "fX6-Jv-wHq"; */
+"fX6-Jv-wHq.placeholder" = "Password";
+
+/* Class = "UITextField"; placeholder = "Username"; ObjectID = "jn7-Ya-r7P"; */
+"jn7-Ya-r7P.placeholder" = "Username";
+
+/* Class = "UILabel"; text = "Login"; ObjectID = "kSG-QO-Rbz"; */
+"kSG-QO-Rbz.text" = "Login";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "lyi-2Y-3F4"; */
+"lyi-2Y-3F4.normalTitle" = "Register";
+
+/* Class = "UIButton"; normalTitle = "Forgot Password?"; ObjectID = "mbh-nE-Ef2"; */
+"mbh-nE-Ef2.normalTitle" = "Forgot Password?";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "rw3-co-0ba"; */
+"rw3-co-0ba.text" = "Password";

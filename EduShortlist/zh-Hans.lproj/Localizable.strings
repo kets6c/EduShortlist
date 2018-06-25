@@ -1,0 +1,11 @@
+/* 
+  Localized.strings
+  EduShortlist
+
+  Created by apple on 22/06/18.
+  Copyright © 2018 apple. All rights reserved.
+*/
+
+"UsernameMessage" = "用户名不能为空";
+"EmailValidation" = "请输入有效的电子邮件";
+"PasswordValidation" = "密码不能为空";

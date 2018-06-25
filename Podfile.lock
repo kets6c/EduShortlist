@@ -1,0 +1,36 @@
+PODS:
+  - IQKeyboardManagerSwift (6.0.4)
+  - KRActivityIndicatorView (2.1.1)
+  - KRProgressHUD (3.1.1):
+    - KRActivityIndicatorView (= 2.1.1)
+  - SlideMenuControllerSwift (4.0.0)
+  - SwiftyGif (4.1.0)
+  - TTGSnackbar (1.7.1)
+
+DEPENDENCIES:
+  - IQKeyboardManagerSwift
+  - KRProgressHUD (~> 3.1.1.0)
+  - SlideMenuControllerSwift (~> 4.0.0.0)
+  - SwiftyGif
+  - TTGSnackbar (~> 1.7.1.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - IQKeyboardManagerSwift
+    - KRActivityIndicatorView
+    - KRProgressHUD
+    - SlideMenuControllerSwift
+    - SwiftyGif
+    - TTGSnackbar
+
+SPEC CHECKSUMS:
+  IQKeyboardManagerSwift: 36dbe324b4f9793f5f41ba5227f3e7c76dfefd50
+  KRActivityIndicatorView: fa5df9f4cf039651ad8b0f9c11c3159d1e19299f
+  KRProgressHUD: 0e380cf5386365e6821c43ef51388d3a680a1cc6
+  SlideMenuControllerSwift: 021d6318201c53d4d4d3710517d43d6c556c7dd0
+  SwiftyGif: d36c6dfb52e2ca1e48fe349d225f50ec4123ec85
+  TTGSnackbar: 26e9c1f842269d0eeae8c51f7d8cbea669d492f1
+
+PODFILE CHECKSUM: 02c66eeb63ae0e578d5ebecb24f2d8f2b0538685
+
+COCOAPODS: 1.5.3

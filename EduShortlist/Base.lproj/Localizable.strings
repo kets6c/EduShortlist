@@ -1,0 +1,11 @@
+/* 
+  Localized.strings
+  EduShortlist
+
+  Created by apple on 22/06/18.
+  Copyright © 2018 apple. All rights reserved.
+*/
+
+"UsernameMessage" = "Username could not be empty";
+"EmailValidation" = "Please enter valid E-mail";
+"PasswordValidation" = "Password could not be empty";

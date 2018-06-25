@@ -1,0 +1,26 @@
+
+/* Class = "UILabel"; text = "Username"; ObjectID = "9ML-ZD-r2u"; */
+"9ML-ZD-r2u.text" = "用户名";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "R6U-KC-PHF"; */
+"R6U-KC-PHF.normalTitle" = "登录";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "fX6-Jv-wHq"; */
+"fX6-Jv-wHq.placeholder" = "密码";
+
+/* Class = "UITextField"; placeholder = "Username"; ObjectID = "jn7-Ya-r7P"; */
+"jn7-Ya-r7P.placeholder" = "用户名";
+
+/* Class = "UILabel"; text = "Login"; ObjectID = "kSG-QO-Rbz"; */
+"kSG-QO-Rbz.text" = "登录";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "lyi-2Y-3F4"; */
+"lyi-2Y-3F4.normalTitle" = "寄存器";
+
+/* Class = "UIButton"; normalTitle = "Forgot Password?"; ObjectID = "mbh-nE-Ef2"; */
+"mbh-nE-Ef2.normalTitle" = "忘记密码？";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "rw3-co-0ba"; */
+"rw3-co-0ba.text" = "密码";
+
+
